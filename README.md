@@ -22,7 +22,6 @@ Genetic Programming<br/>
 	memeilih 2 node yang terbaik<br/>
 <br/>
 <br/>
-keterangan Program <br/>
-------------------<br/>
+keterangan Program : <br/>
 program awal berjalan akan mengeksekusi rumus deret (x + x * x) dan menghasilkan deret 2 6 12 20 30 42 56<br/>
 kemudian program akan mencari rumus dengan menggunakan GP, proses iterasi dilakukan sebanyak 100 kali dan nilai fitness yang mendekati angka 1 adalah rumus yang terbaik dari 100 yang ditemukan.
