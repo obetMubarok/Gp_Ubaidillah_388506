@@ -18,8 +18,6 @@ Genetic Programming<br/>
 	<br/>
 4. Mutasi<br/>
 	dengan cara mengubah operator secara random pada node tree<br/>
-5. seleksi<br/>
-	memeilih 2 node yang terbaik<br/>
 <br/>
 <br/>
 keterangan Program : <br/>
